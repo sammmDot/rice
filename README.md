@@ -2,7 +2,7 @@
 Welcome to the repository of my rice and configurations for gentoo, if you need me to answer a question or something more specific, you can contact me, if you want to contribute with some improvement to the code you can also do it.
 
 # Table of contents
-- [Philosophy] (#phisolopy)
+- [Philosophy] (#philosophy)
   - [Why Gentoo?] (#why Gentoo)
     - [Advantages] (#advantages)
     - [Documentation] (#documentation)
