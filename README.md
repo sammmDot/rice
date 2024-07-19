@@ -2,12 +2,11 @@
 Welcome to the repository of my rice and configurations for gentoo, if you need me to answer a question or something more specific, you can contact me, if you want to contribute with some improvement to the code you can also do it.
 
 # Table of contents
-- [Philosophy] (#philosophy)
-  - [Why Gentoo?] (#whyGentoo)
-    - [Advantages] (#advantages)
-    - [Documentation] (#documentation)
-    - [is compiling boring for you?] (#is compiling boring for you?)
-    - [Init system] (#init system)
+- [Philosophy](#philosophy)
+  - [Advantages](#advantages)
+  - [Documentation](#documentation)
+  - [is compiling boring for you?](#is-compiling-boring-for-you?)
+  - [Init system](#init-system)
 
 # Philosophy
 Let me explain why we are here. For a long time I've been dreaming of a system; minimalist, ultra-customizable, highly flexible, powerful, and that doesn't consume like a fucking glutton the resources of your system. I think; “If you don't use that software, why are you going to have it on your machine?”, I hate those dependencies and that pre-installed software that you will never end up using and that on top of that is costing you resources, you will say “Bro, it's only 1% of it”, believe me my friend 1% makes the difference between an optimized system and one that doesn't take advantage of its full potential. But, why Gentoo:
