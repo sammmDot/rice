@@ -4,10 +4,6 @@ Welcome to the repository of my rice and configurations for gentoo, if you need 
 # Table of contents
 - [Overview](#overview)
 - [Philosophy](#philosophy)
-  - [Advantages](#advantages)
-  - [Documentation](#documentation)
-  - [is compiling boring for you?](#is-compiling-boring-for-you?)
-  - [Init system](#init-system)
 - [Gentoo installation](#gentoo-installation)
 - [Window manager](#window-manager)
 
